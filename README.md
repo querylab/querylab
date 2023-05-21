@@ -49,9 +49,20 @@ You can click the Preview link to take a look at your changes.
 
 
 -----
+## My Contribution by a Snake-Game🐍
 
-<br>
-<br>
+<p align="center">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<details>
+<summary></summary>
+
+[![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/sourabmaity)
+
+</details>
+
+-----
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -87,13 +98,4 @@ You can click the Preview link to take a look at your changes.
 
 <div align='center'>
 
-## <b>querylab...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
 
