@@ -20,17 +20,27 @@ You can click the Preview link to take a look at your changes.
 
 ```
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
------
+<div align='center'>
+
+		
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering;I+Like+To+Design;Hardware/Software;Security+Research;Love+To+Learn+New+Technology..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering;I+Like+To+Design;Hardware/Software;Security+Research;Love+To+Learn+New+Technology..<3"width="700"></a>
 </p>
 
 
 
------
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+	
+<div align='center'>
+	
+	
+	
+	
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
@@ -91,38 +101,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
+-----
 
-
-<ul>
-
-<br>
-
-<li>
-<a href="https://twitter.com/querylab_" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  querylab_-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:contact@startmail.addymail.com" target="_blank">
-<img src="https://img.shields.io/badge/email:  contact-%23EA4335.svg?style=for-the-badge&logo=email&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
 
 
