@@ -1,4 +1,4 @@
-/twitter/follow/:querylab_?label=Follow
+[/twitter/follow/:querylab_?label=Follow](https://img.shields.io/badge/Follow%20%40querylab_--lightgrey?logo=twitter&style=social)
 ### Hi there 👋
 
 <!--
