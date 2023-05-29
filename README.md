@@ -1,4 +1,3 @@
-https://camo.githubusercontent.com/0cbf6e3a76bb3044e710bc030e9e3611964fdc1339afa489ad5db148e22ce6d7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5a61696e416c69313034
 <!---
 preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
