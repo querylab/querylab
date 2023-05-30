@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering;I+Like+To+Design+Things;Hardware/Software;Security+Research;Love+To+Learn+New+Technology..<3"width="700"></a>
 </p>
+	<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 
 
