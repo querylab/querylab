@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 
-## My Contribution by a Snake-Game🐍
+## Just a snake eating my contributions🐍
 
 <p align="center">
   <img src="https://github.com/sourabmaity/sourabmaity/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
