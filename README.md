@@ -111,24 +111,32 @@ You can click the Preview link to take a look at your changes.
 
 </details>
 
-
-
-
-
 -----
 
 
+### Donation
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=orange" alt=""></center>
+</p>
+
+ <label for="fname">bc1q3l7tt65k7yn0zea525xm4y2n6zz2r6tltr9ftz</label>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=Ethereum&logoColor=purple" alt=""></center>
+</p>
+
+ <label for="fname">0x6d0e1d9d2f8e97e6BA47751d94f82205F865BCdB</label>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dogecoin-000000?style=for-the-badge&logo=dogecoin&logoColor=orange" alt=""></center>
+</p>
 
-
-
-
-
-
-
+ <label for="fname">DNtuwV9CLrTKGrkoHZuPKkDCWfuoXGD8xm</label>
 
 
 
