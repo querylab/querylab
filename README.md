@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 	
 	
 <br>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <table>
   <tr>
       <td><img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="200"></td>
