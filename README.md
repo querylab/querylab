@@ -1,5 +1,5 @@
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=querylab&label=Profile%20Views&color=1&icon=3&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=querylab&label=Profile%20Views&color=11&icon=3&pretty=true" />
 </a>
 <!---
 preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
 	
 <div align='center'>
