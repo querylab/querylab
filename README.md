@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=querylab)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=querylab&label=Profile%20Views&color=6&icon=3&pretty=true" />
+</a>
 <!---
 preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 	
 	
 <br>
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
 <table>
   <tr>
       <td><img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" width="200"></td>
