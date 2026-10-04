@@ -7,5 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,androidstudio,java,cpp,solidity,kotlin,py,matlab,ts,js,react,aws,bash,firebase,supabase,mysql,postgres,nodejs,docker,arduino,raspberrypi&perline=21" />
+  <a href="https://github.com/gian-gg/icon-marquee">
+    <img src="https://icon-marquee.giann.dev/v1/marquee?i=git,androidstudio,java,cpp,solidity,kotlin,py,matlab,ts,js,react,aws,bash,firebase,supabase,mysql,postgres,nodejs,docker,arduino,raspberrypi&width=1200" alt="Tech Stack" />
+  </a>
 </p>
